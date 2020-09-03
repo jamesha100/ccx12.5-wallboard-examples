@@ -4,7 +4,7 @@ Cisco UCCX 12.5 includes a reporting engine called *Cisco Unified Intelligence C
 
 CUIC provides both historical and live reporting features. The live reporting feature displays real time statistics and can be used to provide wallboard type functionality.
 
-
+![Wallboard Queues](/images/queues.wallboard.png)
 
 You can use the [editor on GitHub](https://github.com/jamesha100/ccx12.5-wallboard-examples/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
